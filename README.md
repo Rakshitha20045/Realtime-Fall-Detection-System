@@ -135,6 +135,19 @@ Streamlit UI (Annotated Frame + Overlays)
 
 ---
 
+## 📂 Project Structure
+
+```text
+realtime-fall-detection-system/
+├── fall_snapshots/             # 📸 Automatically generated: Stores .jpg evidence of falls
+├── Images/                     # 🖼️ Static assets for README (UI screenshots, alerts)
+├── Real_time_fall_detect.py    # 🧠 Main application script (Streamlit + AI Logic)
+├── fall_log.json               # 📋 Automatically generated: Persistent database of fall events
+├── requirements.txt            # 📦 List of required Python packages
+├── Live Fall Detection.mp4     # 📹 Demo video file
+└── README.md                   # 📖 Project documentation
+
+---
 ## 🛠️ Tech Stack
 
 | Category | Technology | Version |
