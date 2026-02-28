@@ -164,7 +164,6 @@ realtime-fall-detection-system/
 ```
 
 ## 📦 Dependencies
-
 ```txt
 ultralytics==8.4.18
 mediapipe==0.10.9
