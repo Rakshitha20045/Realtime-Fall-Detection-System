@@ -13,7 +13,7 @@
 The Elderly Abnormal Behavior Detection System is a computer vision-based application designed to detect abnormal behaviors such as falls in elderly individuals using video input.
 
 This system combines:
-- YOLOv8 for person detection
+- YOLOv11m for person detection
 - MediaPipe Pose for human pose estimation (33 keypoints)
 - Custom logic for abnormal behavior classification
 - Streamlit for interactive web interface
@@ -24,7 +24,7 @@ The application allows users to upload videos, detect falls, visualize alerts, a
 
 ## 🚀 Features
 
-- Real-time person detection using YOLOv8
+- Real-time person detection using YOLOv11m
 - Pose estimation using MediaPipe
 - Automatic fall detection and classification
 - Visual alert overlay ("FALL DETECTED")
@@ -37,7 +37,7 @@ The application allows users to upload videos, detect falls, visualize alerts, a
 
 ## 🧠 System Workflow
 
-1. Person detection using YOLOv8
+1. Person detection using YOLOv11m
 2. Pose estimation using MediaPipe Pose
 3. Extract body keypoints
 4. Analyze posture and body angles
@@ -52,7 +52,7 @@ The application allows users to upload videos, detect falls, visualize alerts, a
 | Category | Tools |
 |---|---|
 | Language | Python 3.10.11 |
-| Object Detection | Ultralytics YOLOv8 |
+| Object Detection | Ultralytics YOLOv11m |
 | Pose Estimation | MediaPipe Pose |
 | Image Processing | OpenCV |
 | Numerical Computing | NumPy |
