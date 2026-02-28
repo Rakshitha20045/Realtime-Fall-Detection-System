@@ -1,6 +1,5 @@
 <p align="center">
   <h1 align="center">Elderly Abnormal Behavior Detection System</h1>
-  <h3 align="center">Real-Time Fall Detection using YOLOv8, MediaPipe, and Streamlit</h3>
 </p>
 
 <p align="center">
