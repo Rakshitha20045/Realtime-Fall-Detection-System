@@ -24,15 +24,16 @@ The **Real-Time Human Fall Detection System** is a production-grade AI surveilla
 Designed for **elderly care**, **hospitals**, **smart homes**, and **industrial safety**, this system bridges the gap between passive surveillance and active emergency response by combining state-of-the-art computer vision with multi-channel real-time notifications.
 
 ---
-
 ## 🖼️ Application Screenshots
+
+---
 
 ### 🖥️ Streamlit Dashboard
 
 <p align="center">
-  <img src="https://i.ibb.co/1YKz3RMJ/streamlit-ui.png" width="48%"/>
+  <img src="images/streamlit-ui.png" width="48%">
   &nbsp;
-  <img src="https://i.ibb.co/dwpD15rP/streamlit-ui-1.png" width="48%"/>
+  <img src="images/streamlit-ui-1.png" width="48%">
 </p>
 
 ---
@@ -40,9 +41,9 @@ Designed for **elderly care**, **hospitals**, **smart homes**, and **industrial 
 ### 📹 Live Camera / CCTV Fall Detection
 
 <p align="center">
-  <img src="https://i.ibb.co/HDGNm59P/Live-fall-detect.png" width="48%"/>
+  <img src="images/Live-fall-detect.png" width="48%">
   &nbsp;
-  <img src="https://i.ibb.co/DPzF1Cbg/Live-fall-detect-1.png" width="48%"/>
+  <img src="images/Live-fall-detect-1.png" width="48%">
 </p>
 
 ---
@@ -50,9 +51,9 @@ Designed for **elderly care**, **hospitals**, **smart homes**, and **industrial 
 ### 🎞️ Video File-Based Fall Detection
 
 <p align="center">
-  <img src="https://i.ibb.co/gMh1t1Hc/video-fall-detect.png" width="48%"/>
+  <img src="images/video-fall-detect.png" width="48%">
   &nbsp;
-  <img src="https://i.ibb.co/20Y97b36/video-fall-detect-1.png" width="48%"/>
+  <img src="images/video-fall-detect-1.png" width="48%">
 </p>
 
 ---
@@ -60,11 +61,14 @@ Designed for **elderly care**, **hospitals**, **smart homes**, and **industrial 
 ### 📲 Emergency Alerts
 
 <p align="center">
-  <img src="https://i.ibb.co/m5Vbv1fy/sms-alert.jpg" width="40%" title="SMS Alert via Twilio"/>
-  &nbsp;&nbsp;
-  <img src="https://i.ibb.co/4RPZQQB0/whatsapp-alert.jpg" width="40%" title="WhatsApp Alert via Twilio"/>
+  <img src="images/sms-alert.jpg" width="48%">
+  &nbsp;
+  <img src="images/whatsapp-alert.jpg" width="48%">
 </p>
-<p align="center"><i>Left: SMS Alert &nbsp;|&nbsp; Right: WhatsApp Alert — both triggered automatically on fall detection</i></p>
+
+<p align="center">
+<b>Left:</b> SMS Alert &nbsp;&nbsp;|&nbsp;&nbsp; <b>Right:</b> WhatsApp Alert — triggered automatically on fall detection
+</p>
 
 ---
 
