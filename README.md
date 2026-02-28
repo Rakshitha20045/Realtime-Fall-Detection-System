@@ -87,14 +87,16 @@ python -m venv venv
 venv\Scripts\activate
 ```
 
-### Step 3: Install Dependencies
-```bash
-pip install mediapipe==0.10.9
-pip install streamlit==1.54.0
-pip install opencv-python==4.13.0.92
-pip install ultralytics==8.4.18
-pip install numpy==2.2.6
-```
+## 📦 Dependencies
+
+| Library | Version |
+|---|---|
+| Python | 3.10.11 |
+| mediapipe | 0.10.9 |
+| streamlit | 1.54.0 |
+| opencv-python | 4.13.0.92 |
+| ultralytics | 8.4.18 |
+| numpy | 2.2.6 |
 
 ---
 
@@ -153,8 +155,3 @@ The system provides:
 - Smart surveillance systems
 - Assisted living safety systems
 - Fall prevention and detection systems
-
-
-## 📄 License
-
-This project is intended for educational and research purposes.
